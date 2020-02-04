@@ -1,0 +1,16 @@
+PODS:
+  - USE_Chat (0.2.6)
+
+DEPENDENCIES:
+  - USE_Chat (from `../`)
+
+EXTERNAL SOURCES:
+  USE_Chat:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  USE_Chat: d45d68e2cee3fb5916623f20ce64e79467c36cbe
+
+PODFILE CHECKSUM: 7d518d35c945fb73e9e4a3a3708b5805411493cd
+
+COCOAPODS: 1.8.0
